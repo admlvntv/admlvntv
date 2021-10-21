@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/adamcraftmaster" target="blank"><img src="https://img.shields.io/twitter/follow/adamcraftmaster?logo=twitter&style=for-the-badge" alt="adamcraftmaster" /></a> </p>
 
-- 🔭 I’m currently working on [First Robotics for my FRC467 team](https://github.com/team467/Robot-Competition)
+- 🔭 I’m currently working on [First Robotics for my FRC467 team](https://github.com/team467/Robot-Code)
 
 - 🌱 I’m currently learning **Java, Arduino, WPILib**
 
